@@ -18,5 +18,3 @@ d. Random forest (number of trees, max tree depth, max number of variables per n
 7. See if removing some features systematically will improve your models (e.g. using recursive feature elimination https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.RFECV.html).
 8. Finally, test a few promising models on the test data:
 https://www.ee.iitb.ac.in/~asethi/Dump/MouseTest.csv
-9. Write your observations and thoughts
-10. Write your references as well as other classmates outside of your team with whom you discussed
